@@ -1,6 +1,6 @@
 ### Olá! eu sou o Matheus
 
-- 👨‍🎓 Estou estudando para ser desenvolvedor FullStack
+- Desenvolvedor FullStack
 
 
 <div align="center">
