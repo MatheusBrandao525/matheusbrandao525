@@ -21,6 +21,7 @@ Eu sou o Matheus
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
           
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/1151435/screenshots/3477811/attachments/766159/vader-vector-new_ods.png?compress=1&resize=400x300&vertical=top">
 </div>
