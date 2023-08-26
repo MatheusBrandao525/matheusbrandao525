@@ -1,6 +1,21 @@
-### Matheus F. Brandão
+# Matheus Felipe Brandão
 
-- Desenvolvedor FullStack
+Desenvolvedor Full Stack | Analista e Desenvolvedor de Sistemas
+
+## Sobre Mim
+
+Olá! Sou um apaixonado desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Claretiano. Com 21 anos de idade, estou dedicado a criar soluções inovadoras e amigáveis para os usuários, combinando minhas habilidades front-end e back-end.
+
+Tenho um forte entendimento de conceitos-chave, como testes de software, arquitetura limpa, padrões de projeto e controle de versões. Minha experiência abrange desde a criação de interfaces atraentes e intuitivas até o desenvolvimento de lógica de negócios robusta e escalável.
+
+## Habilidades e Experiências
+
+- Desenvolvimento Full Stack: Capacidade de criar aplicativos completos, desde o front-end até o back-end, oferecendo uma visão completa do ciclo de vida do desenvolvimento.
+- Front-End: Conhecimento sólido em HTML, CSS e JavaScript, focado em criar interfaces atraentes e responsivas.
+- Back-End: Experiência em desenvolvimento de API, implementação de boas práticas e segurança, além do uso de frameworks como Laravel, Slim, Flutter, Vue.js, React Native, Ionic.
+- Padrões de Projeto e Arquitetura Limpa: Aplicação de princípios que garantem a escalabilidade, manutenção e organização do código.
+- Testes de Software: Familiaridade com testes unitários, integração e TDD (Test-Driven Development) para garantir a qualidade do código.
+- Versionamento e Colaboração: Proficiente no uso de sistemas de controle de versão, como Git, para trabalho colaborativo e rastreamento de mudanças.
 
 
 <div align="center">
