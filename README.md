@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 # Matheus Felipe Brandão
 
 Desenvolvedor Full Stack | Analista e Desenvolvedor de Sistemas
