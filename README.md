@@ -4,7 +4,7 @@ Desenvolvedor Full Stack | Analista e Desenvolvedor de Sistemas
 
 ## Sobre Mim
 
-Olá! Sou um apaixonado desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Claretiano. Com 21 anos de idade, estou dedicado a criar soluções inovadoras e amigáveis para os usuários, combinando minhas habilidades front-end e back-end.
+Olá! Sou um desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Claretiano. Com 21 anos de idade, estou dedicado a criar soluções inovadoras e amigáveis para os usuários, combinando minhas habilidades front-end e back-end.
 
 Tenho um forte entendimento de conceitos-chave, como testes de software, arquitetura limpa, padrões de projeto e controle de versões. Minha experiência abrange desde a criação de interfaces atraentes e intuitivas até o desenvolvimento de lógica de negócios robusta e escalável.
 
