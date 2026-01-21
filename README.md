@@ -1,47 +1,47 @@
 # Matheus Felipe Brandão  
-**Desenvolvedor Full Stack | Analista de Sistemas | Criador de Soluções Digitais**
+**Full Stack Developer | Systems Analyst | Digital Product Builder**
 
-Sou desenvolvedor full stack com formação em **Análise e Desenvolvimento de Sistemas**, focado em criar **produtos digitais sólidos, escaláveis e bem arquitetados** — do backend à experiência final do usuário.
+I am a Full Stack Developer with a degree in **Systems Analysis and Development**, focused on building **robust, scalable, and well-architected digital products** — from backend logic to user experience.
 
-Trabalho com desenvolvimento web e mobile, unindo **engenharia de software, design funcional e visão de produto** para transformar ideias em sistemas reais, performáticos e sustentáveis.
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-- 💻 Atuação full stack (frontend, backend e mobile)  
-- 🧠 Forte base em **arquitetura limpa, boas práticas, padrões de projeto e versionamento**  
-- 🔧 Experiência com aplicações web, APIs, sistemas escaláveis e apps mobile  
-- 📈 Mentalidade orientada a **produto, performance e manutenibilidade**
-
-Busco sempre escrever código **legível, testável e preparado para crescer**, priorizando soluções simples para problemas complexos.
+I work across web and mobile development, combining **software engineering principles, clean architecture, and product-oriented thinking** to turn ideas into reliable, real-world systems.
 
 ---
 
-## 🧩 Tecnologias & Ferramentas
+## 🚀 About Me
+
+- 🎓 Bachelor’s degree in Systems Analysis and Development  
+- 💻 Full Stack experience (Frontend, Backend & Mobile)  
+- 🧠 Strong foundation in **Clean Architecture, design patterns, and best practices**  
+- 🔧 Experience with web applications, APIs, scalable systems, and mobile apps  
+- 📈 Product-driven mindset focused on **performance, maintainability, and clarity**
+
+I believe good software is not just functional — it is **readable, testable, and built to evolve**.
+
+---
+
+## 🧩 Tech Stack
 
 **Frontend**
-- JavaScript | TypeScript
-- React | Vue.js
-- HTML5 | CSS3 | Sass | Bootstrap
+- JavaScript | TypeScript  
+- React | Vue.js  
+- HTML5 | CSS3 | Sass | Bootstrap  
 
 **Backend**
-- PHP (Laravel)
-- Node.js
-- APIs REST
-- MySQL | MongoDB
+- PHP (Laravel)  
+- Node.js  
+- RESTful APIs  
+- MySQL | MongoDB  
 
 **Mobile**
-- Flutter
-- Ionic
-- Android Studio
+- Flutter  
+- Ionic  
+- Android Studio  
 
-**DevOps & Outros**
-- Docker
-- Git & GitHub
-- Arquitetura em camadas
-- Clean Code & Clean Architecture
+**DevOps & Engineering**
+- Docker  
+- Git & GitHub  
+- Layered Architecture  
+- Clean Code & Clean Architecture  
 
 ---
 
@@ -54,13 +54,13 @@ Busco sempre escrever código **legível, testável e preparado para crescer**, 
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Let’s Connect
 
-Estou aberto a:
-- Oportunidades profissionais (CLT, contrato ou internacional)
-- Projetos freelance
-- Colaborações técnicas
-- Desenvolvimento de produtos digitais
+I’m open to:
+- Full-time or contract opportunities (remote or international)
+- Freelance projects
+- Technical collaborations
+- Building digital products from scratch
 
 <div align="left">
   <a href="mailto:brandao.matheus.dev@gmail.com">
@@ -76,4 +76,4 @@ Estou aberto a:
 
 ---
 
-⭐ _“Código limpo não é um detalhe. É um diferencial competitivo.”_
+⭐ *“Clean code is not a detail. It’s a competitive advantage.”*
