@@ -159,9 +159,6 @@ Transfers between bank accounts with consistent, safe business rules.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrandao525&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F24&title_color=00F5D4&text_color=C9CEF5" alt="Top languages"/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=MatheusBrandao525&hide_border=true&background=0B0F24&ring=7B61FF&fire=FF4FD8&currStreakNum=00F5D4&sideNums=E6E9FF&currStreakLabel=00F5D4&sideLabels=8B93C7&dates=5E6699&stroke=1E2448" alt="GitHub streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusBrandao525&bg_color=0B0F24&color=C9CEF5&line=7B61FF&point=00F5D4&area=true&area_color=7B61FF&hide_border=true&custom_title=Contribution%20pulse" alt="Contribution graph"/>
-
 </div>
 
 <br/>
