@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" fill="none">
+  <defs>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7B61FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#7B61FF" stop-opacity="0.15"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070914"/>
+      <stop offset="1" stop-color="#0E0B22"/>
+    </linearGradient>
+    <path id="flow" d="M60 210 H 260 C 300 210 300 210 330 210 H 450"/>
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+    .sans { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+    .ring { transform-origin: 450px 210px; animation: breathe 4s ease-in-out infinite; }
+    .r2 { animation-delay: .5s; } .r3 { animation-delay: 1s; } .r4 { animation-delay: 1.5s; }
+    @keyframes breathe { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    .spin { transform-origin: 450px 210px; animation: spin 30s linear infinite; }
+    .spinr { transform-origin: 450px 210px; animation: spin 22s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .dash { stroke-dasharray: 6 10; animation: dash 1.2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -16; } }
+  </style>
+
+  <rect width="900" height="420" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="419" rx="17.5" stroke="#7B61FF" stroke-opacity="0.3"/>
+
+  <text x="40" y="48" class="mono" font-size="12" fill="#00F5D4" letter-spacing="3">HOW I BUILD</text>
+  <text x="40" y="76" class="sans" font-size="22" font-weight="700" fill="#E6E9FF">Dependencies point inward.</text>
+  <text x="40" y="100" class="sans" font-size="14" fill="#8B93C7">Business rules stay pure — frameworks are details.</text>
+
+  <!-- rings -->
+  <circle class="ring r4" cx="450" cy="210" r="170" fill="#FF4FD8" fill-opacity="0.04" stroke="#FF4FD8" stroke-opacity="0.6"/>
+  <circle class="ring r3" cx="450" cy="210" r="124" fill="#00F5D4" fill-opacity="0.05" stroke="#00F5D4" stroke-opacity="0.6"/>
+  <circle class="ring r2" cx="450" cy="210" r="80" fill="#7B61FF" fill-opacity="0.08" stroke="#7B61FF" stroke-opacity="0.8"/>
+  <circle class="ring" cx="450" cy="210" r="40" fill="url(#core)"/>
+
+  <g class="spin"><circle cx="450" cy="40" r="5" fill="#FF4FD8"/><circle cx="450" cy="380" r="3" fill="#FF4FD8"/></g>
+  <g class="spinr"><circle cx="574" cy="210" r="4.5" fill="#00F5D4"/><circle cx="326" cy="210" r="3" fill="#00F5D4"/></g>
+
+  <text x="450" y="215" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#fff">DOMAIN</text>
+  <text x="450" y="152" text-anchor="middle" class="mono" font-size="11" fill="#B9AEFF">USE CASES</text>
+  <text x="450" y="108" text-anchor="middle" class="mono" font-size="11" fill="#7FFBE8">ADAPTERS · APIs</text>
+  <text x="450" y="62" text-anchor="middle" class="mono" font-size="11" fill="#FF9BE9">UI · DB · FRAMEWORKS</text>
+
+  <!-- arrows inward -->
+  <g stroke="#E6E9FF" stroke-opacity="0.5">
+    <path class="dash" d="M450 352 V 254"/>
+    <path d="M444 262 L450 252 L456 262" stroke-opacity="0.8"/>
+  </g>
+
+  <!-- side notes left -->
+  <g class="mono" font-size="12">
+    <text x="40" y="300" fill="#FF9BE9">React · Vue · Flutter · Ionic</text>
+    <text x="40" y="322" fill="#7FFBE8">Laravel · Node.js · REST</text>
+    <text x="40" y="344" fill="#B9AEFF">Services · Repositories</text>
+    <text x="40" y="366" fill="#ffffff">Entities · Rules</text>
+  </g>
+
+  <!-- side notes right -->
+  <g class="sans" font-size="13" fill="#8B93C7" text-anchor="end">
+    <text x="860" y="160"><tspan fill="#00F5D4">✓</tspan> Readable</text>
+    <text x="860" y="186"><tspan fill="#00F5D4">✓</tspan> Testable</text>
+    <text x="860" y="212"><tspan fill="#00F5D4">✓</tspan> Framework-agnostic</text>
+    <text x="860" y="238"><tspan fill="#00F5D4">✓</tspan> Swappable infra</text>
+    <text x="860" y="264"><tspan fill="#00F5D4">✓</tspan> Built to evolve</text>
+  </g>
+</svg>

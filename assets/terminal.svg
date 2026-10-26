@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" fill="none">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1126"/>
+      <stop offset="1" stop-color="#070914"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="900" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00F5D4" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#7B61FF" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#FF4FD8" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 15px; white-space: pre; }
+    .l { opacity: 0; animation: show .01s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .k { fill: #FF4FD8; } .v { fill: #00F5D4; } .s { fill: #FFD166; } .p { fill: #E6E9FF; }
+    .c { fill: #5E6699; } .f { fill: #7B61FF; } .g { fill: #8B93C7; }
+    .caret { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="16" fill="url(#win)" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M1 17a16 16 0 0 1 16-16h866a16 16 0 0 1 16 16v27H1z" fill="#ffffff" fill-opacity="0.03"/>
+  <circle cx="28" cy="23" r="6.5" fill="#FF5F57"/>
+  <circle cx="50" cy="23" r="6.5" fill="#FEBC2E"/>
+  <circle cx="72" cy="23" r="6.5" fill="#28C840"/>
+  <text x="450" y="28" text-anchor="middle" class="g" style="font-size:13px">matheus@dev: ~/profile — zsh</text>
+
+  <g transform="translate(32 80)">
+    <text class="l" style="animation-delay:.3s" y="0"><tspan class="v">❯</tspan><tspan class="p"> cat</tspan><tspan class="s"> matheus.ts</tspan></text>
+
+    <text class="l" style="animation-delay:1.0s" y="36"><tspan class="k">const</tspan><tspan class="p"> matheus</tspan><tspan class="g">: </tspan><tspan class="f">Developer</tspan><tspan class="g"> = {</tspan></text>
+    <text class="l" style="animation-delay:1.3s" y="62"><tspan class="p">  role</tspan><tspan class="g">: </tspan><tspan class="s">"Full Stack Developer &amp; Systems Analyst"</tspan><tspan class="g">,</tspan></text>
+    <text class="l" style="animation-delay:1.6s" y="88"><tspan class="p">  degree</tspan><tspan class="g">: </tspan><tspan class="s">"Systems Analysis and Development"</tspan><tspan class="g">,</tspan></text>
+    <text class="l" style="animation-delay:1.9s" y="114"><tspan class="p">  layers</tspan><tspan class="g">: [</tspan><tspan class="s">"frontend"</tspan><tspan class="g">, </tspan><tspan class="s">"backend"</tspan><tspan class="g">, </tspan><tspan class="s">"mobile"</tspan><tspan class="g">, </tspan><tspan class="s">"devops"</tspan><tspan class="g">],</tspan></text>
+    <text class="l" style="animation-delay:2.2s" y="140"><tspan class="p">  principles</tspan><tspan class="g">: [</tspan><tspan class="s">"Clean Architecture"</tspan><tspan class="g">, </tspan><tspan class="s">"SOLID"</tspan><tspan class="g">, </tspan><tspan class="s">"Design Patterns"</tspan><tspan class="g">],</tspan></text>
+    <text class="l" style="animation-delay:2.5s" y="166"><tspan class="p">  mindset</tspan><tspan class="g">: </tspan><tspan class="s">"product-driven"</tspan><tspan class="g">,</tspan></text>
+    <text class="l" style="animation-delay:2.8s" y="192"><tspan class="p">  openTo</tspan><tspan class="g">: [</tspan><tspan class="s">"remote"</tspan><tspan class="g">, </tspan><tspan class="s">"international"</tspan><tspan class="g">, </tspan><tspan class="s">"freelance"</tspan><tspan class="g">, </tspan><tspan class="s">"collabs"</tspan><tspan class="g">],</tspan></text>
+    <text class="l" style="animation-delay:3.1s" y="218"><tspan class="p">  goodSoftware</tspan><tspan class="g">: () =&gt; [</tspan><tspan class="s">"readable"</tspan><tspan class="g">, </tspan><tspan class="s">"testable"</tspan><tspan class="g">, </tspan><tspan class="s">"built to evolve"</tspan><tspan class="g">],</tspan></text>
+    <text class="l" style="animation-delay:3.4s" y="244"><tspan class="g">};</tspan></text>
+
+    <text class="l" style="animation-delay:4.2s" y="288"><tspan class="v">❯</tspan><tspan class="p"> matheus.goodSoftware().every(</tspan><tspan class="f">isNonNegotiable</tspan><tspan class="p">)</tspan></text>
+    <text class="l" style="animation-delay:5.0s" y="314"><tspan class="v">true</tspan></text>
+
+    <text class="l" style="animation-delay:5.8s" y="348"><tspan class="v">❯</tspan><tspan class="p"> </tspan><tspan class="c">// ready to build your next product. let's talk ↓</tspan></text>
+    <rect style="opacity:0;animation:show .01s 6.4s forwards, blink 1s 6.4s step-end infinite" x="0" y="366" width="10" height="18" fill="#00F5D4"/>
+  </g>
+</svg>
